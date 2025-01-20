@@ -1,5 +1,7 @@
 #Learn about git and github
-
-'''python
+```javascript code
+cosole.log("git in progress")
+```
+```python
 print("learning git")
-'''html
+```
